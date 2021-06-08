@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <nav className={'navbar'} id="nav">
             <h2>React Firebase</h2>
-            <Link to="/React-Firebase/">Budget Tracker</Link>            
+            <Link to="/">Budget Tracker</Link>            
             <Link to="/phGallery">Photo Grid</Link>    
             <Link to="/account">Account</Link>
         </nav>
