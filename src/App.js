@@ -18,7 +18,7 @@ function App() {
       <Navbar /> 
       <div className={'App'}>
         <Switch>
-          <Route path="/" exact component={Budget} />
+          <Route path="/React-Firebase" exact component={Budget} />
           <Route path="/phGallery" component={PhGallery} />         
           <PrivetRoute path="/account" exact component={Account} />
           <Route path="/login" component={Login} />  
