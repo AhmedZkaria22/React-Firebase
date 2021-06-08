@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Firebase/static/css/main.aa795eeb.chunk.css",
+    "main.js": "/React-Firebase/static/js/main.3e1dc3b1.chunk.js",
+    "main.js.map": "/React-Firebase/static/js/main.3e1dc3b1.chunk.js.map",
+    "runtime-main.js": "/React-Firebase/static/js/runtime-main.1c2fd02e.js",
+    "runtime-main.js.map": "/React-Firebase/static/js/runtime-main.1c2fd02e.js.map",
+    "static/js/2.9f1bf1f0.chunk.js": "/React-Firebase/static/js/2.9f1bf1f0.chunk.js",
+    "static/js/2.9f1bf1f0.chunk.js.map": "/React-Firebase/static/js/2.9f1bf1f0.chunk.js.map",
+    "index.html": "/React-Firebase/index.html",
+    "static/css/main.aa795eeb.chunk.css.map": "/React-Firebase/static/css/main.aa795eeb.chunk.css.map",
+    "static/js/2.9f1bf1f0.chunk.js.LICENSE.txt": "/React-Firebase/static/js/2.9f1bf1f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2fd02e.js",
+    "static/js/2.9f1bf1f0.chunk.js",
+    "static/css/main.aa795eeb.chunk.css",
+    "static/js/main.3e1dc3b1.chunk.js"
+  ]
+}
